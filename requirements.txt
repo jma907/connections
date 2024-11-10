@@ -2,4 +2,8 @@ pandas
 numpy
 pyarrow
 flask
-nltk
+scikit-learn
+dask
+dask-expr
+gensim
+networkx
